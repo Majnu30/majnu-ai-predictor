@@ -1,0 +1,1 @@
+# majnu-ai-predictor
